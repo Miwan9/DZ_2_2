@@ -1,0 +1,60 @@
+.heads {
+	height: 200px;
+	background: #cccbb1;
+	padding-left: 5px;
+}
+
+h1 {
+	color: #6d360e;
+	font-family: sans-serif;
+}
+
+h3 {
+	color: #946426;
+}
+
+a {
+	color: green;
+}
+
+.exercise {
+	width: 420px;
+	border: 4px dashed;
+	padding-left: 5px;
+}
+
+.text-exercise {
+	font-size: 20px;
+}
+
+sup {
+	font-style: italic;
+}
+
+sub {
+	font-style: italic;
+}
+
+.exercise2 {
+    width: 350px;
+	border: 4px dashed;
+	padding-left: 5px;
+}
+
+
+.text-exercise2 {
+	font-style: italic;
+	font-size: 30px;
+}
+
+.blue {
+	font-style: normal;
+	color: blue;
+	font-size: 15px;
+}
+
+.red {
+	font-style: normal;
+	color: red;
+	font-size: 15px;
+}
